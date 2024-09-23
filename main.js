@@ -4,3 +4,4 @@ return num1+num2;
 }
 soma(5,6);
 console.log(soma(2,3));
+A= 6.6
