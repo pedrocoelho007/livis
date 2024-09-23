@@ -13,7 +13,7 @@ let areaTriangulo =function(base,altura){
     return (base*altura)/2;
 }
 console.log(areaTriangulo(5,5));
-let nome= prompt('Escolha 3 Números para uma média');
-let nome2=
+let nome= prompt('digite o primeiro numero');
+let nome2=(digite o segundo numero)
 let nome3=
 document.write (456);
