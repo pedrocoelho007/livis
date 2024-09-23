@@ -12,4 +12,4 @@ console.log(areaQuadrado(5));
 let areaTriangulo =function(6.6/2){
     return ;
 }
-console.log(areaTriangulo(18));
+console.log(areaTriangulo());
