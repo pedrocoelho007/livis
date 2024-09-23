@@ -1,4 +1,4 @@
-// alert("pedro")
+// alert("pedroelivia")
 function soma (num1,num2){
 return num1+num2;
 }
@@ -14,4 +14,6 @@ let areaTriangulo =function(base,altura){
 }
 console.log(areaTriangulo(5,5));
 let nome= prompt('Escolha 3 Números para uma média');
+let nome2=
+let nome3=
 document.write (456);
