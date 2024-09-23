@@ -13,6 +13,6 @@ let areaTriangulo =function(base,altura){
     return (base*altura)/2;
 }
 console.log(areaTriangulo(5,5));
-let nome=
+let nome= prompt('pergunta')
 prompt('nome?');
 document write (nome)
