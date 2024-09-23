@@ -7,4 +7,3 @@ console.log(soma(2,3));
 
 function areaQuadrado(lado){
     return lado**5}
-return 
